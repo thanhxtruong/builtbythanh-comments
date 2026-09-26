@@ -1,0 +1,4 @@
+{
+  "origins": ["https://builtbythanh.com", "https://www.builtbythanh.com"],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
